@@ -4,7 +4,7 @@ This repository will display the results of exploratory data analysis from the E
 ## What is the European Soccer Database?
 European soccer data sets, contains data related to basic information of players, and team goals, etc., 
 This project explores data visualization about European soccer, and makes predictions of match results. 
-This project uses several packages, such as NumPy, Matplotlib, Padas, and Sqlite3.
+This project uses several packages, such as NumPy, Matplotlib, Pandas, and Sqlite3.
 
 ## Questions Explored:
 1. What Is The Number Of Games In Each League?
